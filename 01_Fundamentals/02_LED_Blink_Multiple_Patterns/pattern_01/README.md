@@ -25,4 +25,4 @@ Understanding how timing affects digital outputs and pattern generation.
 Completed
 
 ## Wokwi Simulation
-Add your Wokwi project link here.
+https://wokwi.com/projects/467170529820517377
